@@ -22,7 +22,7 @@
 ### 克隆仓库
 
 ```
-$ git clone https://github.com/greyli/helloflask.git
+$ git clone https://github.com/DaisySwf/helloflask.git
 $ cd helloflask
 ```
 ### 创建 & 激活虚拟环境 & 安装依赖包
